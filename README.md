@@ -38,4 +38,34 @@ Membuat antarmuka pengguna yang lebih menarik (misalnya dengan menggunakan Java 
 Menggunakan database untuk menyimpan data transaksi agar data tidak hilang saat program ditutup.
 Kesimpulan:
 
-Aplikasi LaundryApp telah berhasil diimplementasikan dengan fitur-fitur dasar seperti pencatatan pesanan, perhitungan biaya, dan pembuatan laporan transaksi. Meskipun masih terdapat beberapa keterbatasan, aplikasi ini dapat berfungsi dengan baik dan dapat menjadi dasar untuk pengembangan aplikasi laundry yang lebih kompleks di masa depan.
+
+Aplikasi LaundryApp telah berhasil diimplementasikan dengan fitur-fitur dasar seperti pencatatan pesanan, perhitungan biaya, dan pembuatan laporan transaksi. Meskipun masih terdapat beberapa keterbatasan, aplikasi ini dapat berfungsi dengan baik dan dapat menjadi dasar untuk pengembangan aplikasi laundry yang lebih kompleks di masa depan. 
+
+Contoh Running : 
+
+![Screenshot 2025-02-11 165741](https://github.com/user-attachments/assets/6de6e50a-9946-4e83-968f-c0e558f5ef7e)
+
+
+![Screenshot 2025-02-11 165939](https://github.com/user-attachments/assets/c90351c0-7b2f-40d7-80c4-8c209279ed56)
+
+
+![Screenshot 2025-02-11 170029](https://github.com/user-attachments/assets/0066798e-b889-4257-80ff-665b82f0f3bc)
+
+
+
+![Screenshot 2025-02-11 170308](https://github.com/user-attachments/assets/e8f4e0ee-b276-44f9-9003-3a397b8b6411)
+
+
+
+![Screenshot 2025-02-11 170351](https://github.com/user-attachments/assets/a7e0aafb-463b-4887-9ced-ebc5d4df1d53)
+
+
+
+![Screenshot 2025-02-11 170448](https://github.com/user-attachments/assets/7c1dbbcb-b229-4024-9ec0-3067ba489202)
+
+
+
+
+
+
+
